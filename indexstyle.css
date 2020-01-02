@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+}
+body{
+    background-color:black;
+        margin:0px
+    
+}
+div{
+    text-align: center;
+}
+h1{ color:white;
+    border:solid skyblue 6px;
+    
+    
+}
+
+img {height: 200px; 
+     width: 200px;
+    transition: 1s;
+    border: solid white 4px;
+    
+}
+img:hover{
+    transform: scale(1.05)
+}
+footer{
+    background-color: mediumblue;
+    margin:0px
+    
+}
+a{color:white;
+margin:0px}
+
+h4{color:white}
+div{margin-bottom:10px }
