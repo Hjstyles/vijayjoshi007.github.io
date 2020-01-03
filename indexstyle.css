@@ -17,7 +17,7 @@ h1{ color:white;
 
 img {height: 200px; 
      width: 200px;
-    transition: 1s;
+    transition:0.5s;
     border: solid white 4px;
     
 }
@@ -25,8 +25,11 @@ img:hover{
     transform: scale(1.05)
 }
 footer{
-    background-color: mediumblue;
-    margin:0px
+    background-color: lightpink;
+    margin:0px;
+Padding-bottom:15px;
+Padding-top:15px;
+Line-height:15px
     
 }
 a{color:white;
